@@ -1,0 +1,13 @@
+.date-input{
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 2px solid rgb(229, 52, 161);
+}
+.date-display{
+    margin-top: 2rem;
+    padding: 10px;
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: 400;
+}
